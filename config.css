@@ -1,0 +1,13 @@
+@import url('https://cdn.jsdelivr.net/gh/senalbulumulle/FOIL-UI-Framework-Library/FOIL-UI.css');
+body {
+        background-color: rgb(25, 25, 25);
+}
+
+.FOIL-navigation-bar-regular {
+        background-color: rgb(25, 25, 25);
+        color: white;
+}
+.FOIL-layout-regular-no-shadow {
+        background-color: rgb(25, 25, 25);
+        color: white;
+}
