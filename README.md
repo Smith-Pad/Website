@@ -1,2 +1,0 @@
-# Website
-Smith-Pad Website
