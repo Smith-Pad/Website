@@ -6,9 +6,21 @@ body {
 .FOIL-navigation-bar-regular {
         background-color: rgb(25, 25, 25);
         color: white;
+        padding: 16px 32px;
+        
 }
 .FOIL-layout-regular-no-shadow {
         background-color: rgb(25, 25, 25);
+        color: white;
+}
+
+.FOIL-button-regular-no-shadow {
+        background-color: rgb(31, 31, 31);
+        color: white;
+}
+
+.FOIL-button-small-no-shadow {
+        background-color: rgb(31, 31, 31);
         color: white;
 }
 
